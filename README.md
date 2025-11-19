@@ -1,1 +1,1 @@
-# Projeto---Controle-de-estoque-para-ind-stria
+# Projeto - Controle de estoque para industria
